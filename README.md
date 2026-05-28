@@ -1,2 +1,2 @@
 # Logger_Class
-Making a Reusable class for logging information about a program
+Making a reusable class for logging information about a program
